@@ -8,6 +8,6 @@ export function App() {
     flexDirection: 'column',
     height: '100vh'
   }}><DashboardLayout>
-    Кудин оказался не бесполезным...
+   Ура конец пары
     </DashboardLayout></div >;
 }
