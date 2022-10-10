@@ -8,6 +8,6 @@ export function App() {
     flexDirection: 'column',
     height: '100vh'
   }}><DashboardLayout>
-   Ура, конец пары
+   Ура конец пары
     </DashboardLayout></div >;
 }
